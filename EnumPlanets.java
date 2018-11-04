@@ -1,11 +1,8 @@
 //Created By: Nicholas Brean
-//Created On: October 2018
-//This program prints out the length your chosen planet is from the sun
-
+//Created on Nov 2018
+//Created to Print out Planets using Enums
 import java.util.Scanner;
-
 public class EnumPlanets {
-	
 	public static void main(String args[]) {
 		Scanner userInput = new Scanner(System.in);
 		String userPlanetChoice;
@@ -72,3 +69,4 @@ public class EnumPlanets {
 	}
 
 }
+API • Code • Made by Alex
